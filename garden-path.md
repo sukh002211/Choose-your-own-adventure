@@ -5,5 +5,4 @@ You decide to take the overgrown garden path, hoping it might reveal less direct
 Deep into the garden, you find an old stone bench beside a statue of an angel whose face has worn away with time. The scene feels both peaceful and sad. Just beyond, you spot a partly hidden door in the manor's side, barely noticeable if not for its peculiar ironwork.
 
 Now you have a choice:
-- [Try to open the hidden door](hidden-door.md)
 - [Return to the main entrance](intro.md)
